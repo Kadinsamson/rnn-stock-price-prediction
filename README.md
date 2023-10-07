@@ -12,7 +12,7 @@
 
 ## Neural Network Model
 
-<img src="image.jpg" width="600px" position="middle" />
+<img src="image.jpg" width="600px" position="middle">
 
 
 ## DESIGN STEPS
