@@ -12,7 +12,7 @@
 
 ## Neural Network Model
 
-<img src="WhatsApp Image 2023-09-29 at 18.00.07_af4e183f.jpg" width="600px" position="middle" />
+<img src="image.jpg" width="600px" position="middle" />
 
 
 ## DESIGN STEPS
