@@ -12,7 +12,7 @@
 
 ## Neural Network Model
 
-![](image.jpg)
+![](image2.jpg)
 
 
 ## DESIGN STEPS
