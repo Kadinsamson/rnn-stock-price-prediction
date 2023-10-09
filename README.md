@@ -11,9 +11,9 @@
 * Based on the given features, develop a RNN model to predict, the price of stocks in future
 
 ## Neural Network Model
-
+`
 ![](image2.jpg)
-
+`
 
 ## DESIGN STEPS
 
