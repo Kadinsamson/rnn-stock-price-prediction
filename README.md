@@ -11,8 +11,8 @@
 * Based on the given features, develop a RNN model to predict, the price of stocks in future
 
 ## Neural Network Model
+![image](https://github.com/Kadinsamson/rnn-stock-price-prediction/assets/94525955/b2cc336b-d4b3-444a-9445-0ae0538410f1)
 
-![](image2.jpg)
 
 
 ## DESIGN STEPS
